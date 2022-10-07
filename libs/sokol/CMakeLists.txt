@@ -4,6 +4,9 @@ SET(SRCS
 	sokol_glue.h
 	sokol_app.h
 	sokol_gfx.h
+	sokol_time.h
+	sokol_imgui.h
+	sokol_gfx_imgui.h
 	sokol.c
 )
 
