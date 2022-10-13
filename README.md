@@ -1,6 +1,6 @@
 # lightning_demo
 
-This is a simple demo of an algorithm that generates the gemometry for lightning bolt, such as this one:
+This is a simple demo of an algorithm that generates the gemometry for lightning bolts, such as this one:
 
 ![lightning](https://tuket.github.io/img/lightnings/demo_lightning.png)
 
